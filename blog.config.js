@@ -24,8 +24,8 @@ const BLOG = {
 
   CUSTOM_MENU: process.env.NEXT_PUBLIC_CUSTOM_MENU || false, // 支持Menu 类型，从3.12.0版本起，各主题将逐步支持灵活的二级菜单配置，替代了原来的Page类型，此配置是试验功能、默认关闭。
 
-  AUTHOR: process.env.NEXT_PUBLIC_AUTHOR || 'Rendi.Wu', // 您的昵称 例如 tangly1024
-  BIO: process.env.NEXT_PUBLIC_BIO || '一个有理想的人', // 作者简介
+  AUTHOR: process.env.NEXT_PUBLIC_AUTHOR || '', // 您的昵称 例如 tangly1024
+  BIO: process.env.NEXT_PUBLIC_BIO || '利用科技的力量，让知识的传递更简单。', // 作者简介
   LINK: process.env.NEXT_PUBLIC_LINK || 'https://rendi.fun', // 网站地址
   KEYWORDS: process.env.NEXT_PUBLIC_KEYWORD || 'Rendi.Wu,博客,创业者,产品经理,学习方法论,Education,Learn Tech,AI,XR', // 网站关键词 英文逗号隔开
 
