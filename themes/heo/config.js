@@ -23,13 +23,13 @@ const CONFIG = {
   HEO_HERO_TITLE_3: 'Rendi.Fun',
   HEO_HERO_TITLE_4: '新版上线',
   HEO_HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
-  HEO_HERO_TITLE_LINK: 'https://tangly1024.com',
+  HEO_HERO_TITLE_LINK: 'https://rendi.fun',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
-  HEO_HERO_CATEGORY_2: { title: '读书笔记', url: '/tag/读书笔记' },
+  HEO_HERO_CATEGORY_2: { title: '读书分享', url: '/tag/读书分享' },
   HEO_HERO_CATEGORY_3: { title: '实用教程', url: '/tag/实用教程' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
