@@ -21,8 +21,8 @@ const CONFIG = {
   HEO_HERO_TITLE_1: '探索科技产品',
   HEO_HERO_TITLE_2: '让知识的传递更简单',
   HEO_HERO_TITLE_3: 'Rendi.Fun',
-  HEO_HERO_TITLE_4: '新版上线',
-  HEO_HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
+  HEO_HERO_TITLE_4: '优先阅读',
+  HEO_HERO_TITLE_5: '六篇文章初步交流',
   HEO_HERO_TITLE_LINK: 'https://rendi.fun',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
