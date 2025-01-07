@@ -8,9 +8,9 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: 'Know Yourself;', url: ' ' },
-    { title: 'Be Yourself;', url: ' ' },
-    { title: 'Love Yourself;', url: ' ' },
+    { title: 'Know Yourself', url: ' ' },
+    { title: 'Be Yourself', url: ' ' },
+    { title: 'Love Yourself', url: ' ' },
    // { title: 'Focus on Learning Science, Product design, and Marketing.', url: '' }
   ],
 
