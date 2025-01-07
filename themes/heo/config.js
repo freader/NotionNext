@@ -8,8 +8,10 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: 'Know Yourself，Be Yourself，Love Yourself;', url: ' ' },
-    { title: 'Focus on Learning Science, Product design, and Marketing.', url: '' }
+    { title: 'Know Yourself;', url: ' ' },
+    { title: 'Be Yourself;', url: ' ' },
+    { title: 'Love Yourself;', url: ' ' },
+   // { title: 'Focus on Learning Science, Product design, and Marketing.', url: '' }
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -23,7 +25,7 @@ const CONFIG = {
   HEO_HERO_TITLE_3: 'Rendi.Fun',
   HEO_HERO_TITLE_4: '优先阅读',
   HEO_HERO_TITLE_5: '六篇文章初步交流',
-  HEO_HERO_TITLE_LINK: 'https://rendi.fun',
+  HEO_HERO_TITLE_LINK: '/fastaboard',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
