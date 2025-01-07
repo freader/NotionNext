@@ -22,7 +22,7 @@ const CONFIG = {
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '探索科技产品',
   HEO_HERO_TITLE_2: '让知识的传递更简单',
-  HEO_HERO_TITLE_3: 'Rendi.Fun',
+  HEO_HERO_TITLE_3: 'AI 主笔',
   HEO_HERO_TITLE_4: '优先阅读',
   HEO_HERO_TITLE_5: '六篇文章初步交流',
   HEO_HERO_TITLE_LINK: '/fastaboard',
