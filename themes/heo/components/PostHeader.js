@@ -108,7 +108,9 @@ export default function PostHeader({ post, siteInfo, isDarkMode }) {
                   wordCount={post.wordCount}
                   readTime={post.readTime}
                 />
-              </div>
+              </div> 
+              
+              {/* 暂时注释掉发布日期显示
               {post?.type !== 'Page' && (
                 <>
                   <Link
@@ -120,11 +122,15 @@ export default function PostHeader({ post, siteInfo, isDarkMode }) {
                   </Link>
                 </>
               )}
+              */}
 
+              {/* 暂时注释掉最后编辑日期显示
               <div className='pl-1 mr-2'>
                 <i className='fa-regular fa-calendar-check'></i>{' '}
                 {post.lastEditedDay}
               </div>
+              */}
+              
             </div>
 
             {/* 阅读统计 */}
