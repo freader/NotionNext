@@ -22,9 +22,9 @@ const CONFIG = {
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '探索科技产品',
   HEO_HERO_TITLE_2: '让知识的传递更简单',
-  HEO_HERO_TITLE_3: '本博客由Rendi负责提问，AI主笔完成',
-  HEO_HERO_TITLE_4: '推荐阅读',
-  HEO_HERO_TITLE_5: '几片文章了解研究领域',
+  HEO_HERO_TITLE_3: '本博客由Rendi.W负责提问，AI主笔完成',
+  HEO_HERO_TITLE_4: '初次见面',
+  HEO_HERO_TITLE_5: '几篇文章了解我的研究领域',
   HEO_HERO_TITLE_LINK: '/fastaboard',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随缘推荐',
