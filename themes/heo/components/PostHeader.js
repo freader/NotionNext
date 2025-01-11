@@ -133,13 +133,14 @@ export default function PostHeader({ post, siteInfo, isDarkMode }) {
               
             </div>
 
-            {/* 阅读统计 */}
+            {/* 暂时注释掉阅读统计 
             {ANALYTICS_BUSUANZI_ENABLE && (
               <div className='busuanzi_container_page_pv font-light mr-2'>
                 <i className='fa-solid fa-fire-flame-curved'></i>{' '}
                 <span className='mr-2 busuanzi_value_page_pv' />
               </div>
             )}
+              */}
           </section>
         </div>
 
