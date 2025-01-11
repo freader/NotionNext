@@ -22,12 +22,12 @@ const CONFIG = {
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '探索科技产品',
   HEO_HERO_TITLE_2: '让知识的传递更简单',
-  HEO_HERO_TITLE_3: 'AI 主笔',
-  HEO_HERO_TITLE_4: '优先阅读',
-  HEO_HERO_TITLE_5: '六篇文章初步交流',
+  HEO_HERO_TITLE_3: '本博客由Rendi负责提问，AI主笔完成',
+  HEO_HERO_TITLE_4: '推荐阅读',
+  HEO_HERO_TITLE_5: '几片文章了解研究领域',
   HEO_HERO_TITLE_LINK: '/fastaboard',
   // 英雄区遮罩文字
-  HEO_HERO_COVER_TITLE: '随便逛逛',
+  HEO_HERO_COVER_TITLE: '随缘推荐',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: 'AI 专题', url: '/tag/AI' },
